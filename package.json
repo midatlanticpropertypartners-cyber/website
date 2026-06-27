@@ -1,0 +1,17 @@
+{
+  "name": "mid-atlantic-property-partners",
+  "version": "1.0.0",
+  "description": "Professional, SEO-optimized, responsive website for Mid-Atlantic Property Partners",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -c-1"
+  },
+  "keywords": [
+    "junk-removal",
+    "annapolis",
+    "seo",
+    "responsive"
+  ],
+  "author": "Mid-Atlantic Property Partners",
+  "license": "ISC"
+}
